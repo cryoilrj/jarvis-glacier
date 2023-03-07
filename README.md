@@ -1,4 +1,2 @@
 # jarvis-glacier
-This repository contains:
-1) Tilt sensor code for Arduino and Campbell Scientific Datalogger
-2) Tilt sensor wiring schematics
+This repository contains the Arduino and Campbell Scientific Datalogger code for the tilt sensor system detailed in https://doi.org/10.1017/jog.2019.84
